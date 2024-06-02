@@ -1,6 +1,6 @@
 package com.rd.IkUygulamasi;
 
-public class Personell {
+public class Department {
     String name;
     int age;
     String hobbies;
@@ -9,7 +9,6 @@ public class Personell {
 
     void run(){
         System.out.println("Ad:"+name+" "+"Yaş:"+age+" "+"Hobiler:"+hobbies+" "+"City:"+city+" "+"Email:"+email);
-        }
+    }
 
 }
-

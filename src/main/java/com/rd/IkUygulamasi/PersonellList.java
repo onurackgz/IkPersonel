@@ -4,10 +4,10 @@ public class PersonellList {
     public static void main(String[] args) {
 
 
-        Personell per1 = new Personell();
-        Personell per2 = new Personell();
-        Personell per3 = new Personell();
-        Personell per4 = new Personell();
+        Department per1 = new Department();
+        Department per2 = new Department();
+        Department per3 = new Department();
+        Department per4 = new Department();
 
         per1.name = "Onur";
         per1.age = 29;
