@@ -1,6 +1,6 @@
 package com.rd.IkUygulamasi;
 
-public class PersonellList {
+public class PersonelList {
     public static void main(String[] args) {
 
 
